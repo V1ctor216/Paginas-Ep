@@ -1,0 +1,115 @@
+.pant {
+	background-color: #DDDD00;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	color: #000000;
+	text-align: justify;
+}
+.formu {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #CC00FF;
+	background-color: #00FFFF;
+	text-align: center;
+}
+.titulos {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: xx-large;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	background-image: url(42070.jpg);
+}
+.der {
+	background-color: #333333;
+}
+.dere {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	background-color: #FF0000;
+}
+.men {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #FF0000;
+	background-color: #66CC66;
+	text-align: center;
+
+}
+.TEXTO {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #FF0000;
+	text-align: center;
+}
+.che {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	color: #009900;
+	background-color: #FFFFFF;
+	text-align: justify;
+}
+
+.titulo2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #6600CC;
+	text-align: center;
+}
+.titulo3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #6600CC;
+	text-align: center;
+}
+.comida {
+	background-color: #6699FF;
+}
+.titulo4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: BLUE;
+	text-align: center;
+	}
+.indd {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #FF0000;
+	background-color: #FFFFFF;
+}
+.ind a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #00FF66;
+	list-style-position: inside;
+	list-style-type: circle;
+}
+.titulo6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #CC3399;
+	text-align: center;
+}
+
+.reft {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 34px;
+	color: green;
+	list-style-position: inside;
+	list-style-type: circle;
+}
+
+.city {
+    background-color: #CCFF99;
+}
+
+.tablac {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	background: cyan;
+	font-size: 16px;
+     
+}
